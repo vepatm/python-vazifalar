@@ -1,2 +1,2 @@
 # python-vazifalar
-Ushbuu repository'da python darslariga (ustoz @anvarnarz) oid kodlar jamlangan
+Ushbu repository'da python darslariga (ustoz @anvarnarz) oid kodlar jamlangan
