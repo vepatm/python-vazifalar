@@ -1,0 +1,6 @@
+print('"Nexia", "Tico", \'Damas\' ko\'rganlar qilar havas')
+print('5 nng 4-darajasi', 5**4)
+print('22 ni 4 ga bo\'lgandagi qoldiq', 22%4)
+print('Tomonlari 125 teng bo\'lgan kvadrat yuzi', 125**2, 'perimetri', 4*125)
+print('Diametri 12 ga teng doiraning yuzi', 3.14*(12/2)**2)
+print("Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasi", (6**2+7**2)**(1/2))
