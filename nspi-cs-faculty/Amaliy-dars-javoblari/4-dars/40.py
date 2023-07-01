@@ -1,0 +1,7 @@
+x1 = int(input('x1='))
+y1 = int(input('y1='))
+x2 = int(input('x2='))
+y2 = int(input('y2='))
+a = abs(x2-y1)
+b = abs(y2-y1)
+print(bool((a==1 and b==2) or (a==2 and b==1)))
